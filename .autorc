@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "shaheermudassar",
+  "repo": "container-qytflnu",
+  "name": "shaheermudassar",
+  "email": "shaheer.mudassar13@gmail.com",
+}
